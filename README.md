@@ -2,6 +2,6 @@
 
 This project is a Kaggle project ( https://www.kaggle.com/c/dsti-s20-ann/leaderboard ).
 
-It aims at classifying a very noisy version of the MNIST dataset.
+The goal is to classify a very noisy version of the MNIST dataset.
 
-With the proposed network and the tuning done I achieved an accuracy of 98.2 %
+Following the try of different neworks and the parameters tuning done I managed to achieve an score of 98.162 %
